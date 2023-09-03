@@ -17,14 +17,20 @@
 
 .g-back {
     position: absolute;
-    z-index: -1;
-    color: #fff;
+    font-size: 230px;
+    color: orangered;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    opacity: .2;
+}
+.overlay-hero{
+    z-index: 6;
 }
 .g-front {
     color: #fff;
-font-size: 66px;
+    font-size: 66px;
 }
-.slogan-p{
+
+.slogan-p {
     vertical-align: middle;
     color: #FFFFFF;
     font-size: 36px;
